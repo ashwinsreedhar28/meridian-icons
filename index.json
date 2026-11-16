@@ -1,0 +1,707 @@
+[
+ {
+  "pack": "Default",
+  "icons": [
+   [
+    "meridian",
+    "Meridian"
+   ],
+   [
+    "midnight",
+    "Midnight"
+   ],
+   [
+    "obsidian",
+    "Obsidian"
+   ],
+   [
+    "gilded",
+    "Gilded"
+   ],
+   [
+    "emerald",
+    "Emerald"
+   ]
+  ]
+ },
+ {
+  "pack": "Medieval",
+  "icons": [
+   [
+    "manuscript",
+    "Manuscript"
+   ],
+   [
+    "grimoire",
+    "Grimoire"
+   ],
+   [
+    "wax",
+    "Wax Seal"
+   ],
+   [
+    "stone",
+    "Stonecut"
+   ],
+   [
+    "iron",
+    "Forged Iron"
+   ],
+   [
+    "brass",
+    "Brass Plaque"
+   ]
+  ]
+ },
+ {
+  "pack": "3D",
+  "icons": [
+   [
+    "chrome",
+    "Chrome"
+   ],
+   [
+    "clay",
+    "Clay"
+   ],
+   [
+    "balloon",
+    "Balloon"
+   ],
+   [
+    "fuzzy",
+    "Fuzzy"
+   ],
+   [
+    "block",
+    "Block"
+   ],
+   [
+    "voxel",
+    "Voxel"
+   ],
+   [
+    "cutout",
+    "Cut-Out"
+   ],
+   [
+    "sticker",
+    "Sticker"
+   ]
+  ]
+ },
+ {
+  "pack": "Elements",
+  "icons": [
+   [
+    "lightning",
+    "Lightning"
+   ],
+   [
+    "strike",
+    "Lightning Strike"
+   ],
+   [
+    "fire",
+    "Fire"
+   ],
+   [
+    "water",
+    "Water"
+   ],
+   [
+    "lava",
+    "Lava"
+   ],
+   [
+    "ice",
+    "Ice"
+   ],
+   [
+    "cloud",
+    "Cloud"
+   ],
+   [
+    "aurora",
+    "Aurora"
+   ],
+   [
+    "snow",
+    "Snow"
+   ],
+   [
+    "fog",
+    "Fog"
+   ],
+   [
+    "rainglass",
+    "Rain on Glass"
+   ],
+   [
+    "sunset",
+    "Sunset"
+   ]
+  ]
+ },
+ {
+  "pack": "Nature",
+  "icons": [
+   [
+    "grass",
+    "Grass"
+   ],
+   [
+    "gem",
+    "Gem"
+   ],
+   [
+    "geode",
+    "Geode"
+   ],
+   [
+    "coral",
+    "Coral"
+   ],
+   [
+    "bamboo",
+    "Bamboo"
+   ],
+   [
+    "strata",
+    "Strata"
+   ],
+   [
+    "topo",
+    "Topographic"
+   ]
+  ]
+ },
+ {
+  "pack": "Space",
+  "icons": [
+   [
+    "nebula",
+    "Nebula"
+   ],
+   [
+    "galaxy",
+    "Galaxy"
+   ],
+   [
+    "supernova",
+    "Supernova"
+   ],
+   [
+    "wormhole",
+    "Wormhole"
+   ],
+   [
+    "constellation",
+    "Constellation"
+   ],
+   [
+    "eclipse",
+    "Eclipse"
+   ],
+   [
+    "sun",
+    "Sun"
+   ],
+   [
+    "earth",
+    "Earth"
+   ],
+   [
+    "mars",
+    "Mars"
+   ],
+   [
+    "planet",
+    "Ringed Planet"
+   ],
+   [
+    "moonrock",
+    "Moon Rock"
+   ],
+   [
+    "comet",
+    "Comet"
+   ],
+   [
+    "rocket",
+    "Rocket"
+   ],
+   [
+    "blackhole",
+    "Black Hole"
+   ],
+   [
+    "accretion",
+    "Accretion Disk"
+   ],
+   [
+    "visor",
+    "Visor"
+   ],
+   [
+    "goldfoil",
+    "Gold Foil"
+   ],
+   [
+    "solarpanel",
+    "Solar Panel"
+   ]
+  ]
+ },
+ {
+  "pack": "Cities",
+  "icons": [
+   [
+    "sf",
+    "San Francisco"
+   ],
+   [
+    "la",
+    "Los Angeles"
+   ],
+   [
+    "nyc",
+    "New York"
+   ],
+   [
+    "london",
+    "London"
+   ],
+   [
+    "paris",
+    "Paris"
+   ],
+   [
+    "rome",
+    "Rome"
+   ],
+   [
+    "dubai",
+    "Dubai"
+   ],
+   [
+    "tokyo",
+    "Tokyo"
+   ],
+   [
+    "seoul",
+    "Seoul"
+   ],
+   [
+    "beijing",
+    "Beijing"
+   ],
+   [
+    "moscow",
+    "Moscow"
+   ],
+   [
+    "rio",
+    "Rio"
+   ],
+   [
+    "singapore",
+    "Singapore"
+   ]
+  ]
+ },
+ {
+  "pack": "City Nights",
+  "icons": [
+   [
+    "skyline",
+    "Skyline"
+   ],
+   [
+    "neon",
+    "Neon"
+   ],
+   [
+    "rainneon",
+    "Rain Neon"
+   ],
+   [
+    "trails",
+    "Light Trails"
+   ],
+   [
+    "subway",
+    "Subway Tile"
+   ],
+   [
+    "graffiti",
+    "Graffiti"
+   ]
+  ]
+ },
+ {
+  "pack": "Food",
+  "icons": [
+   [
+    "chocolate",
+    "Chocolate"
+   ],
+   [
+    "donut",
+    "Donut"
+   ],
+   [
+    "sushi",
+    "Sushi"
+   ],
+   [
+    "icecream",
+    "Ice Cream"
+   ],
+   [
+    "toast",
+    "Toast"
+   ],
+   [
+    "jelly",
+    "Jelly"
+   ],
+   [
+    "candy",
+    "Candy"
+   ],
+   [
+    "candycane",
+    "Candy Cane"
+   ]
+  ]
+ },
+ {
+  "pack": "Craft",
+  "icons": [
+   [
+    "papercut",
+    "Paper Cut"
+   ],
+   [
+    "origami",
+    "Origami"
+   ],
+   [
+    "inlay",
+    "Wood Inlay"
+   ],
+   [
+    "linocut",
+    "Linocut"
+   ],
+   [
+    "ceramic",
+    "Ceramic"
+   ],
+   [
+    "quilt",
+    "Quilt"
+   ],
+   [
+    "crossstitch",
+    "Cross-Stitch"
+   ],
+   [
+    "knit",
+    "Knit"
+   ],
+   [
+    "terrazzo",
+    "Terrazzo"
+   ],
+   [
+    "riso",
+    "Risograph"
+   ]
+  ]
+ },
+ {
+  "pack": "Retro Tech",
+  "icons": [
+   [
+    "crt",
+    "CRT"
+   ],
+   [
+    "terminal",
+    "Terminal"
+   ],
+   [
+    "vhs",
+    "VHS"
+   ],
+   [
+    "floppy",
+    "Floppy Disk"
+   ],
+   [
+    "gameboy",
+    "Handheld"
+   ],
+   [
+    "keycap",
+    "Keycap"
+   ],
+   [
+    "led",
+    "LED Matrix"
+   ],
+   [
+    "circuit",
+    "Circuit"
+   ],
+   [
+    "wire",
+    "Wireframe"
+   ],
+   [
+    "pixel",
+    "Pixel Art"
+   ]
+  ]
+ },
+ {
+  "pack": "Music",
+  "icons": [
+   [
+    "vinyl",
+    "Vinyl"
+   ],
+   [
+    "cassette",
+    "Cassette"
+   ],
+   [
+    "equalizer",
+    "Equalizer"
+   ],
+   [
+    "amp",
+    "Amp Grille"
+   ],
+   [
+    "sheet",
+    "Sheet Music"
+   ],
+   [
+    "piano",
+    "Piano"
+   ]
+  ]
+ },
+ {
+  "pack": "Cars",
+  "icons": [
+   [
+    "carbon",
+    "Carbon Fiber"
+   ],
+   [
+    "aluminum",
+    "Brushed Aluminum"
+   ],
+   [
+    "candypaint",
+    "Candy Paint"
+   ],
+   [
+    "tread",
+    "Tire Tread"
+   ],
+   [
+    "gauge",
+    "Gauge"
+   ]
+  ]
+ },
+ {
+  "pack": "Luxury",
+  "icons": [
+   [
+    "goldbar",
+    "Gold Bar"
+   ],
+   [
+    "banknote",
+    "Banknote"
+   ],
+   [
+    "pokerchip",
+    "Poker Chip"
+   ],
+   [
+    "pave",
+    "Diamond Pavé"
+   ],
+   [
+    "guilloche",
+    "Watch Dial"
+   ],
+   [
+    "glitter",
+    "Glitter"
+   ]
+  ]
+ },
+ {
+  "pack": "School",
+  "icons": [
+   [
+    "chalkboard",
+    "Chalkboard"
+   ],
+   [
+    "graphpaper",
+    "Graph Paper"
+   ],
+   [
+    "highlighter",
+    "Highlighter"
+   ],
+   [
+    "composition",
+    "Composition Book"
+   ],
+   [
+    "varsity",
+    "Varsity Patch"
+   ]
+  ]
+ },
+ {
+  "pack": "Styles",
+  "icons": [
+   [
+    "aero",
+    "Frutiger Aero"
+   ],
+   [
+    "vista",
+    "Vista"
+   ],
+   [
+    "liquidglass",
+    "Liquid Glass"
+   ],
+   [
+    "y2k",
+    "Y2K"
+   ],
+   [
+    "skeuo",
+    "Skeuomorphic"
+   ],
+   [
+    "claymorph",
+    "Claymorphism"
+   ],
+   [
+    "neumorph",
+    "Neumorphism"
+   ],
+   [
+    "hologram",
+    "Hologram"
+   ],
+   [
+    "fluted",
+    "Fluted Glass"
+   ],
+   [
+    "vapor",
+    "Vaporwave"
+   ],
+   [
+    "synthwave",
+    "Synthwave"
+   ],
+   [
+    "cyberpunk",
+    "Cyberpunk"
+   ],
+   [
+    "popart",
+    "Pop Art"
+   ],
+   [
+    "memphis",
+    "Memphis"
+   ],
+   [
+    "bauhaus",
+    "Bauhaus"
+   ],
+   [
+    "midcentury",
+    "Mid-Century"
+   ],
+   [
+    "brutalist",
+    "Brutalist"
+   ],
+   [
+    "cottage",
+    "Cottagecore"
+   ],
+   [
+    "academia",
+    "Dark Academia"
+   ],
+   [
+    "kawaii",
+    "Kawaii"
+   ]
+  ]
+ },
+ {
+  "pack": "Holidays",
+  "icons": [
+   [
+    "newyear",
+    "New Year’s"
+   ],
+   [
+    "lunar",
+    "Lunar New Year"
+   ],
+   [
+    "valentine",
+    "Valentine’s"
+   ],
+   [
+    "stpaddys",
+    "St. Patrick’s"
+   ],
+   [
+    "easter",
+    "Easter"
+   ],
+   [
+    "july4",
+    "July 4th"
+   ],
+   [
+    "halloween",
+    "Halloween"
+   ],
+   [
+    "diwali",
+    "Diwali"
+   ],
+   [
+    "thanksgiving",
+    "Thanksgiving"
+   ],
+   [
+    "christmas",
+    "Christmas"
+   ]
+  ]
+ }
+]
